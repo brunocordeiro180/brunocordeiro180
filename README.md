@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bruno Cordeiro Mendes, Java Developer at a credit card processing company called It's Pay
-- 👀 I’m interested in Java programming specially with Spring Boot to build microservices.
+- 👋 Hi, I’m Bruno Cordeiro Mendes, Java Developer at a insurance company called It's Pay
+- 👀 I’m interested in Java programming, especially with Spring Boot to build microservices.
 - 🌱 I’m currently learning React and improving my Java skills
 - 💞️ I’m looking to collaborate on Java projects and React projects as well
-- 📫 You can reache me sending an email to brunocordeiro180@gmail.com
+- 📫 You can reach me sending an email to brunocordeiro180@gmail.com
