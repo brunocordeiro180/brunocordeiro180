@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bruno Cordeiro Mendes, Java Developer at a insurance company called Sura
+- 👋 Hi, I’m Bruno Cordeiro Mendes, Java Developer at a insurance company
 - 👀 I’m interested in Java programming, especially with Spring Boot to build microservices.
 - 🌱 I’m currently learning React and improving my Java skills
 - 💞️ I’m looking to collaborate on Java projects and React projects as well
